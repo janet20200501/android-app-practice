@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BMI</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="clear">CLEAR</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="cm">cm</string>
 </resources>
